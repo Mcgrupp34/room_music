@@ -32,3 +32,4 @@ Download the servo_lib.py and place it in Mu Editor folder
 When the microbit lights up with a line four error, drag the servo library file into the microbit. Now your Room Music Generator shoudl work! 
 
 Press the A button on the microbit to start the device. When it's done playing music, press A to do it again!
+
