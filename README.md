@@ -5,13 +5,13 @@ Microbit Device that makes music based on the room it is in.
 This device is built using the Keyestudio 37 in 1 kit for the BBC Micro:bit. All sensors needed for this device can be found in that kit.
 
 This device uses:
-1 Microbit
-1 V2 sensor shield
-1 HC-SR04 Ultrasonic Module
-1 Keyestudio Passive Buzzer module
-1 TEMT6000 Ambient Light Sensor
-1 Micro Servo
-1 Premium Battery Case 6-cell AA
+1 Microbit,
+1 V2 sensor shield,
+1 HC-SR04 Ultrasonic Module,
+1 Keyestudio Passive Buzzer module,
+1 TEMT6000 Ambient Light Sensor,
+1 Micro Servo,
+1 Premium Battery Case 6-cell AA,
 10 F-F Dupont Jumper Wires
 
 To build this device, plug the microbit into the V2 sensor shield and change the voltage jumpers to 5 volt.
