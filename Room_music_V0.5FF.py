@@ -66,7 +66,7 @@ while True:
             dist_inches = dist_cm/2.54
             my_dist = dist_inches
 
-            #normalizing logic to deal with dist measurements beyond 97 inches
+            #normalizing logic to deal with dist measurements beyond 96 inches
             if (my_dist >= 96):
                 my_dist = my_dist/8
 
