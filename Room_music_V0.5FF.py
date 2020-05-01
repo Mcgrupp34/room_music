@@ -67,7 +67,7 @@ while True:
             my_dist = dist_inches
 
             #normalizing logic to deal with dist measurements beyond 97 inches
-            if (my_dist >= 97):
+            if (my_dist >= 96):
                 my_dist = my_dist/8
 
             #move the servo
@@ -92,5 +92,4 @@ while True:
                 angle = 0
                 loops = 0
                 break
-
 
